@@ -1,0 +1,5 @@
+C:\systor\Prosjekt\GitHub\Test2\Webt2\Webt2\bin\Webt2.dll
+C:\systor\Prosjekt\GitHub\Test2\Webt2\Webt2\bin\Webt2.pdb
+C:\systor\Prosjekt\GitHub\Test2\Webt2\Webt2\obj\Debug\Webt2.csprojResolveAssemblyReference.cache
+C:\systor\Prosjekt\GitHub\Test2\Webt2\Webt2\obj\Debug\Webt2.dll
+C:\systor\Prosjekt\GitHub\Test2\Webt2\Webt2\obj\Debug\Webt2.pdb
